@@ -1,6 +1,6 @@
 # Orchid
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/860bc953-499d-4b41-80ac-1e66d2e3e0fb/deploy-status)](https://app.netlify.com/sites/agkarpubs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c457ff6-8609-41c3-a393-a1d0d1626272/deploy-status)](https://app.netlify.com/sites/orchidify/deploys)
 
 Example site: https://papers.agah.dev
 
