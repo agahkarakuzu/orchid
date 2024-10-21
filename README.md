@@ -1,5 +1,7 @@
 # Orchid
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/860bc953-499d-4b41-80ac-1e66d2e3e0fb/deploy-status)](https://app.netlify.com/sites/agkarpubs/deploys)
+
 One of the most annoying tasks in academia is keeping your academic record up to date, creating lists in a specific style requested by funding agencies, etc.
 
 Orchid automates this process.
@@ -11,7 +13,7 @@ Orchid automates this process.
 Your academic record is automatically populated from your [ORCID](https://orcid.org/about). That's it! 
 
 * Update `src/components/data/author-info.json` with your information.
-* Deploy the site.
+* Deploy the site to Netlify.
 * Updates to your ORCID profile will be reflected on the site automatically & dynamically.
 
 ## Build Setup
