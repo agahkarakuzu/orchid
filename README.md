@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/860bc953-499d-4b41-80ac-1e66d2e3e0fb/deploy-status)](https://app.netlify.com/sites/agkarpubs/deploys)
 
+Example site: https://papers.agah.dev
+
 One of the most annoying tasks in academia is keeping your academic record up to date, creating lists in a specific style requested by funding agencies, etc.
 
 Orchid automates this process.
